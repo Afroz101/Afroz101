@@ -12,9 +12,6 @@ Experienced mobile app developer with a proven track record of creating successf
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afroz101&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afroz101&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Afroz101&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
