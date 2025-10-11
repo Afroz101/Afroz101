@@ -1,5 +1,10 @@
 # 💫 About Me:
-Experienced mobile app developer with a proven track record of creating successful and commercially viable<br>applications. Proficient in both Android and Flutter development, with over 5 years of experience in Android and<br>4 years in Flutter. Additionally, I have over 1.5 years of experience in iOS Swift development. Keen eye for details<br>and a tenacious attitude to continuously improve existing apps. Dedicated to achieving perfection and always<br>striving for excellence. Eagerly seeking opportunities to leverage extensive knowledge and experience as an<br>Android Developer.<br><br>Portfolio :- https://docs.google.com/document/d/1nLZNjAj1bwujQRgZtvPrNDAu7ecN-jWlsH8sj-g8n_o/edit?usp=drive_link
+Experienced mobile app developer with a proven track record of creating successful and commercially viable
+applications. Proficient in both Android and Flutter development, with over 6 years of experience in Android and
+5 years in Flutter. Additionally, I have over 1 years of experience in iOS Swift development. Keen eye for details
+and a tenacious attitude to continuously improve existing apps. Dedicated to achieving perfection and always
+striving for excellence. Eagerly seeking opportunities to leverage extensive knowledge and experience as an
+Android Developer.<br><br>Portfolio :- https://docs.google.com/document/d/1nLZNjAj1bwujQRgZtvPrNDAu7ecN-jWlsH8sj-g8n_o/edit?usp=drive_link
 
 
 ## 🌐 Socials:
