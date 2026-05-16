@@ -45,8 +45,7 @@ I love solving complex mobile engineering problems and building apps that impact
 # 💼 Portfolio
 
 🔗 **Portfolio:**
-https://docs.google.com/document/d/1nLZNjAj1bwujQRgZtvPrNDAu7ecN-jWlsH8sj-g8n_o/edit
-
+afrozportfolio.web.app
 ---
 
 # 🛠️ Tech Stack
@@ -77,7 +76,6 @@ https://docs.google.com/document/d/1nLZNjAj1bwujQRgZtvPrNDAu7ecN-jWlsH8sj-g8n_o/
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge\&logo=firebase\&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-black?style=for-the-badge\&logo=socketdotio)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 
 ### 🗄️ Database
 
